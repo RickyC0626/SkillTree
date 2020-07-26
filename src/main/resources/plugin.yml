@@ -1,0 +1,6 @@
+name: SkillTree
+version: ${project.version}
+main: io.github.rickyc0626.skilltree.SkillTree
+api-version: 1.15
+authors: [RickyC0626]
+description: RPG styled skill tree for survival servers
